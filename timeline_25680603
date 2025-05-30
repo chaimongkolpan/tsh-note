@@ -1,0 +1,22 @@
+26/05/2025
+- day-end onbase
+- Check call screen
+- User Set new OA
+- day-end genport
+
+27/05/2025
+- monitor job พบ Error job หยุดไปเฉยๆ
+- Rerun batch เฉพาะ job
+
+28/05/2025
+- job completed (แต่ job ลูกๆ error) data ไม่สัมพันธ์กัน
+- เจอปัญหาไม่แตก job
+- Rerun batch ใหม่ 
+
+29/05/2025
+- IL, PW เสร็จ แต่มี X100,G100 เลยทำการตัดโปรแกรม GNC704CJ ออกทุก Biz
+- Rerun ใหม่ตอนเย็น 
+
+30/05/2025
+- IL, PW ไม่ยอมตัด WO เลยซ่อม และ Rerun XXC0634
+- RL เสร็จแล้ว
